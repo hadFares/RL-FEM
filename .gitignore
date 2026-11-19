@@ -9,6 +9,9 @@ wheels/
 # Virtual environments (recréé par `uv sync`)
 .venv
 
+# Maillages générés par Gmsh (recréés par les scripts)
+*.msh
+
 # Notebooks
 .ipynb_checkpoints/
 
